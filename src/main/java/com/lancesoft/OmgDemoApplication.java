@@ -14,6 +14,7 @@ public class OmgDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OmgDemoApplication.class, args);
 		System.out.println("......................");
+		System.out.println(">>>>>>>>>>>>>>>>>");
 	}
 
 }
